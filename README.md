@@ -4,11 +4,11 @@ A simple and responsive Todo Application built with React and the useReducer Hoo
 
 ## 🚀 Live Demo
 
-🌐 Live Site: https://to-do-app-usereducer.netlify.app/
+🌐 Live Site: https://todoapp-react-api.netlify.app/
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/NirmalJBehanan/to-do-app-useReducer
+🔗https://github.com/NirmalJBehanan/todo-app-react-api
 
 ## ✨ Features
 
@@ -69,7 +69,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/NirmalJBehanan/to-do-app-useReducer.git
+git clone https://github.com/NirmalJBehanan/todo-app-react-api
 ```
 
 Navigate to the project folder:
